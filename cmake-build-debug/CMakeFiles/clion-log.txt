@@ -1,0 +1,4 @@
+/home/rpych/Dokumenty/CLion/clion-2017.3.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/rpych/Dokumenty/CLion/clion-2017.3.3/CLionProjects/CPP/derivativesCalc
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rpych/Dokumenty/CLion/clion-2017.3.3/CLionProjects/CPP/derivativesCalc/cmake-build-debug

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/derivativesCalc.dir/main.cpp.o CMakeFiles/derivativesCalc.dir/Monomial.cpp.o CMakeFiles/derivativesCalc.dir/Polynomial.cpp.o CMakeFiles/derivativesCalc.dir/Parser.cpp.o CMakeFiles/derivativesCalc.dir/Term.cpp.o  -o derivativesCalc 
